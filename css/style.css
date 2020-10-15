@@ -1,0 +1,57 @@
+body{
+	margin: 0;
+}
+.logo{
+	width: 200px;
+}
+.container1{
+	width: 465px;
+}
+.banner{
+	width: 900px;
+}
+.container2{}
+.container3{}
+.container4{
+    padding: 1px;
+    background-color: seagreen;
+    margin-bottom: 50px;
+}
+div{
+	width:900px;
+	margin-left: auto;
+    margin-right: auto;
+}
+h1{
+	text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+	font-size: 44px;
+    line-height: 1;
+    width: 264px;
+}
+h3{
+	font-size: 81px;
+    text-align: center;
+    color: white;
+}
+p{
+	font-size: 20px;
+}
+img{
+	max-width: 100%;
+}
+.c1{
+	color: #0505ffb8;
+}
+.c2{
+	color: #ff0000;
+}
+.c3{
+	color: #4caf50;
+}
+.c4{
+	color: #ff9800;
+}
